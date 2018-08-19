@@ -1,0 +1,14 @@
+LOGIN:
+  VALID_EMAIL: 'acorns_test@mailinator.com'
+  VALID_PASS: 'Test123'
+
+SEARCH:
+  ZIP_CODE: '92614'
+
+FILTERS:
+  MIN_PRICE: '$100k'
+  MAX_PRICE: '$500k'
+  MIN_BEDS: '1'
+  MAX_BEDS: '3'
+  MIN_SQFT: '750'
+  MAX_SQFT: '1,250'

@@ -1,0 +1,5 @@
+STG:
+  WEB_BASE_URL: 'https://www.redfin.com'
+
+DEV:
+  WEB_BASE_URL: 'https://www.redfin.com'
